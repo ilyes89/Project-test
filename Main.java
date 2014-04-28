@@ -4,8 +4,8 @@ public class Main {
     int  x ;
 
     public void affiche(){
-        System.out.println(ch);
-		System.out.println(x);
+        System.out.println("ch="+ch);
+		System.out.println("x="+x);
     }
 
     public void setCh(String ch) {
